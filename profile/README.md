@@ -1,6 +1,6 @@
 # Byteram
 
-<h3>Tailored Software Solutions, for Your Unique Needs.</h1>
+<h3>Technology suited for your business</h1>
 <p>
-  Software Insurance As a Service. You dream it, we build it. Byteram specializes in tailored software solutions designed to automate your tasks and streamline your business processes.
+  We specialize in creating standardized, mathematical assessments to measure professional abilities, ensuring that businesses can make accurate hiring decisions based on verified credentials. Through our innovative credentialing system, professionals earn industry-recognized badges, allowing them to showcase their skills with confidence. By leveraging data-driven evaluations, we bridge the gap between talent and opportunity, streamlining the hiring process for companies worldwide.
 </p>
